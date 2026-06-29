@@ -1,116 +1,97 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AVELQOR/.github/main/profile/banner.png" alt="Avelqor" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center">AVELQOR</h1>
-
-<p align="center">
-  Engineering Studio
-</p>
-
-<p align="center">
-  Building software systems that help businesses operate, automate, and scale.
-</p>
+<img src="assets/banner.svg" width="100%" alt="AVELQOR">
 
 <br>
 
-<p align="center">
-  SaaS Platforms • AI Solutions • Business Automation • Web Applications
-</p>
+# AVELQOR
+
+### Engineering Studio
+
+Building software systems that help businesses operate, automate, and scale.
+
+<br>
+
+<img src="assets/icons/saas.svg" height="18"> SaaS Platforms     <img src="assets/icons/ai.svg" height="18"> AI Solutions     <img src="assets/icons/automation.svg" height="18"> Automation Systems     <img src="assets/icons/web.svg" height="18"> Digital Products
+
+<br><br>
+
+<a href="https://avelqor.com">Website</a> • <a href="mailto:hello@avelqor.com">Contact</a>
+
+</div>
 
 ---
 
-## About
+## Capabilities
 
-Avelqor is a software engineering studio focused on designing and developing modern digital products.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-We help businesses streamline operations, improve customer experiences, and accelerate growth through scalable software solutions.
+<img src="assets/icons/business.svg" height="22">
 
-Our work spans SaaS products, business systems, automation platforms, AI integrations, internal tools, and customer-facing applications.
+### Business Systems
 
----
+Custom software that streamlines operations, centralizes data, and improves decision-making.
 
-## What We Build
+</td>
 
-### SaaS Platforms
+<td width="50%" valign="top">
 
-Production-grade SaaS products with scalable architecture, role-based access control, subscription systems, analytics, and operational tooling.
+<img src="assets/icons/automation.svg" height="22">
 
-### Business Software
+### Automation
 
-Custom ERP, CRM, booking systems, client portals, management dashboards, and workflow platforms tailored to operational requirements.
+Workflows, integrations, reporting pipelines, and operational tooling.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<img src="assets/icons/platform.svg" height="22">
+
+### Digital Platforms
+
+Web applications, SaaS products, customer portals, and internal systems.
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="assets/icons/ai.svg" height="22">
 
 ### AI Solutions
 
-AI-powered assistants, knowledge systems, intelligent automation, content workflows, and business process enhancement.
+Assistants, knowledge systems, intelligent workflows, and AI-powered experiences.
 
-### Web Applications
-
-Modern, responsive, high-performance web applications built for reliability, maintainability, and long-term growth.
-
-### Automation Systems
-
-Operational automation, integrations, data synchronization, reporting pipelines, and productivity workflows.
+</td>
+</tr>
+</table>
 
 ---
 
-## Core Principles
+## Principles
 
-* Solve real business problems
-* Focus on long-term maintainability
-* Prioritize performance and reliability
-* Build with scalability in mind
-* Deliver measurable business value
-
----
-
-## Technology
-
-```text
-Frontend
-├─ Next.js
-├─ React
-├─ TypeScript
-
-Backend
-├─ Node.js
-├─ Payload CMS
-├─ PostgreSQL
-
-Infrastructure
-├─ Cloudflare
-├─ Vercel
-├─ Neon
-└─ GitHub Actions
-```
+<table>
+<tr>
+<td>Precision</td>
+<td>Performance</td>
+<td>Reliability</td>
+<td>Scalability</td>
+<td>Craftsmanship</td>
+</tr>
+</table>
 
 ---
 
-## Markets
+<div align="center">
 
-* Türkiye
-* Middle East
-* Europe
-* Global
+Serving clients across Türkiye, Europe, and global markets.
 
----
+<br>
 
-## Contact
+**Building software with purpose.**
 
-Website
-https://avelqor.com
-
-Email
-[hello@avelqor.com](mailto:hello@avelqor.com)
-
-Business Inquiries
-[contact@avelqor.com](mailto:contact@avelqor.com)
-
-Support
-[support@avelqor.com](mailto:support@avelqor.com)
-
----
-
-<p align="center">
-  Building software with purpose.
-</p>
+</div>
