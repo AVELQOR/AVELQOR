@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="AVELQOR">
-
-<br>
+<img width="100%" src="https://raw.githubusercontent.com/AVELQOR/.github/main/profile/banner.png">
 
 # AVELQOR
 
@@ -12,86 +10,83 @@ Building software systems that help businesses operate, automate, and scale.
 
 <br>
 
-<img src="assets/icons/saas.svg" height="18"> SaaS Platforms     <img src="assets/icons/ai.svg" height="18"> AI Solutions     <img src="assets/icons/automation.svg" height="18"> Automation Systems     <img src="assets/icons/web.svg" height="18"> Digital Products
-
-<br><br>
-
 <a href="https://avelqor.com">Website</a> • <a href="mailto:hello@avelqor.com">Contact</a>
 
 </div>
 
 ---
 
-## Capabilities
+## Who We Are
+
+Avelqor is a software engineering studio focused on creating modern digital products for ambitious businesses.
+
+We design, build, and maintain software systems that improve operations, automate workflows, and support long-term growth.
+
+---
+
+## Areas of Focus
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-<img src="assets/icons/business.svg" height="22">
+### SaaS
 
-### Business Systems
-
-Custom software that streamlines operations, centralizes data, and improves decision-making.
+Scalable software products built for growth.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-<img src="assets/icons/automation.svg" height="22">
+### AI
 
-### Automation
-
-Workflows, integrations, reporting pipelines, and operational tooling.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<img src="assets/icons/platform.svg" height="22">
-
-### Digital Platforms
-
-Web applications, SaaS products, customer portals, and internal systems.
+Intelligent systems and business automation.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-<img src="assets/icons/ai.svg" height="22">
+### Platforms
 
-### AI Solutions
-
-Assistants, knowledge systems, intelligent workflows, and AI-powered experiences.
+Modern web applications and internal tools.
 
 </td>
 </tr>
 </table>
+
+---
+
+## Selected Services
+
+* Business Systems
+* Customer Portals
+* ERP & CRM Solutions
+* Booking Platforms
+* AI Integrations
+* Workflow Automation
+* Web Applications
+* SaaS Development
 
 ---
 
 ## Principles
 
-<table>
-<tr>
-<td>Precision</td>
-<td>Performance</td>
-<td>Reliability</td>
-<td>Scalability</td>
-<td>Craftsmanship</td>
-</tr>
-</table>
+Quality over quantity.
+
+Reliability over complexity.
+
+Business value over technical novelty.
+
+Long-term thinking over short-term shortcuts.
 
 ---
 
 <div align="center">
 
-Serving clients across Türkiye, Europe, and global markets.
+Türkiye • Middle East • Europe • Global
 
-<br>
+<br><br>
 
-**Building software with purpose.**
+Building software with purpose.
 
 </div>
